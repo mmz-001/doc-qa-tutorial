@@ -3,4 +3,5 @@ pypdf==3.4.0
 streamlit==1.17.0
 openai==0.26.5
 faiss-cpu==1.7.3
-
+numpy== 
+pandas==ss
